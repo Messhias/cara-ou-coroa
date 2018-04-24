@@ -19,5 +19,5 @@ react-native run-android
 ```
 
 # Screenshots
-![Alt text](https://github.com/Messhias/axios-native/blob/master/img/logo.png "Game logo")
-![Alt text](https://github.com/Messhias/axios-native/blob/master/img/1.png "Screenshot application")
+![Alt text](https://github.com/Messhias/cara-ou-coroa/blob/master/img/logo.png "Game logo")
+![Alt text](https://github.com/Messhias/cara-ou-coroa/blob/master/img/1.png "Screenshot application")
